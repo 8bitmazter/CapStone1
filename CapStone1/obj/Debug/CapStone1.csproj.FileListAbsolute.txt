@@ -1,0 +1,7 @@
+C:\Users\8bitm\source\repos\CapStone1\CapStone1\obj\Debug\CapStone1.csprojAssemblyReference.cache
+C:\Users\8bitm\source\repos\CapStone1\CapStone1\obj\Debug\CapStone1.csproj.CoreCompileInputs.cache
+C:\Users\8bitm\source\repos\CapStone1\CapStone1\bin\Debug\CapStone1.exe.config
+C:\Users\8bitm\source\repos\CapStone1\CapStone1\bin\Debug\CapStone1.exe
+C:\Users\8bitm\source\repos\CapStone1\CapStone1\bin\Debug\CapStone1.pdb
+C:\Users\8bitm\source\repos\CapStone1\CapStone1\obj\Debug\CapStone1.exe
+C:\Users\8bitm\source\repos\CapStone1\CapStone1\obj\Debug\CapStone1.pdb
